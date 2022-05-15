@@ -4,15 +4,12 @@ Baseado na excelente video aula do Felip Deshamps - https://www.youtube.com/watc
 
 <img src="https://github.com/almcarvalho/capslock/blob/main/src/images/description.png">
 
-## Available Scripts
+## Como rodar o projeto
 
-In the project directory, you can run:
+
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Runs the app in:
+Open [http://localhost:3000](http://localhost:3000) 
 
